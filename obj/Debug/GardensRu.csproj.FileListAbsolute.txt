@@ -1,0 +1,124 @@
+D:\code\GardensRu\obj\Debug\GardensRu.csproj.AssemblyReference.cache
+D:\code\GardensRu\obj\Debug\MainWindow.g.cs
+D:\code\GardensRu\obj\Debug\App.g.cs
+D:\code\GardensRu\obj\Debug\MainWindow.baml
+D:\code\GardensRu\obj\Debug\GardensRu.Properties.Resources.resources
+D:\code\GardensRu\obj\Debug\GardensRu.csproj.GenerateResource.cache
+D:\code\GardensRu\obj\Debug\GardensRu.csproj.CoreCompileInputs.cache
+D:\code\GardensRu\obj\Debug\Panel.g.cs
+D:\code\GardensRu\obj\Debug\Panel.baml
+D:\code\GardensRu\obj\Debug\OrdersWindow.g.cs
+D:\code\GardensRu\obj\Debug\OrdersWindow.baml
+D:\code\GardensRu\obj\Debug\CartWindow.g.cs
+D:\code\GardensRu\obj\Debug\CartWindow.baml
+D:\code\GardensRu\obj\Debug\Blog.g.cs
+D:\code\GardensRu\obj\Debug\AboutWindow.baml
+D:\code\GardensRu\obj\Debug\AboutWindow.g.cs
+D:\code\GardensRu\obj\Debug\Blog.baml
+D:\code\GardensRu\obj\Debug\AdminPanelWindow.g.cs
+D:\code\GardensRu\obj\Debug\AdminPanelWindow.baml
+D:\code\GardensRu\obj\Debug\AddUserWindow.baml
+D:\code\GardensRu\obj\Debug\ChangePasswordWindow.baml
+D:\code\GardensRu\obj\Debug\AddUserWindow.g.cs
+D:\code\GardensRu\obj\Debug\ChangePasswordWindow.g.cs
+D:\code\GardensRu\obj\Debug\PanelUser.g.cs
+D:\code\GardensRu\obj\Debug\PanelUser.baml
+D:\code\GardensRu\obj\Debug\ProductEditorWindow.baml
+D:\code\GardensRu\obj\Debug\Views\Inventory\InventoryView.baml
+D:\code\GardensRu\obj\Debug\MinStockLevelWindow.baml
+D:\code\GardensRu\obj\Debug\OrderEditorWindow.baml
+D:\code\GardensRu\obj\Debug\PurchaseOrderRequestWindow.baml
+D:\code\GardensRu\obj\Debug\CustomerEditorWindow.baml
+D:\code\GardensRu\obj\Debug\TextPromptWindow.baml
+D:\code\GardensRu\obj\Debug\ModelEditorWindow.baml
+D:\code\GardensRu\obj\Debug\StockMovementWindow.baml
+D:\code\GardensRu\obj\Debug\Views\Stock\StockOverviewView.baml
+D:\code\GardensRu\obj\Debug\Views\Orders\OrdersManagementView.baml
+D:\code\GardensRu\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+D:\code\GardensRu\obj\Debug\Views\Compatibility\CompatibilityView.baml
+D:\code\GardensRu\obj\Debug\Views\Reports\ReportsOverviewView.baml
+D:\code\GardensRu\obj\Debug\Views\Users\UsersManagementView.baml
+D:\code\GardensRu\obj\Debug\ProductEditorWindow.g.cs
+D:\code\GardensRu\obj\Debug\Views\Inventory\InventoryView.g.cs
+D:\code\GardensRu\obj\Debug\MinStockLevelWindow.g.cs
+D:\code\GardensRu\obj\Debug\OrderEditorWindow.g.cs
+D:\code\GardensRu\obj\Debug\PurchaseOrderRequestWindow.g.cs
+D:\code\GardensRu\obj\Debug\CustomerEditorWindow.g.cs
+D:\code\GardensRu\obj\Debug\TextPromptWindow.g.cs
+D:\code\GardensRu\obj\Debug\ModelEditorWindow.g.cs
+D:\code\GardensRu\obj\Debug\StockMovementWindow.g.cs
+D:\code\GardensRu\obj\Debug\Views\Stock\StockOverviewView.g.cs
+D:\code\GardensRu\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+D:\code\GardensRu\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+D:\code\GardensRu\obj\Debug\Views\Compatibility\CompatibilityView.g.cs
+D:\code\GardensRu\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+D:\code\GardensRu\obj\Debug\Views\Users\UsersManagementView.g.cs
+D:\code\GardensRu\obj\Debug\AutoParts_MarkupCompile.cache
+D:\code\GardensRu\obj\Debug\AutoParts_MarkupCompile.lref
+D:\code\GardensRu\bin\Debug\AutoParts.exe.config
+D:\code\GardensRu\bin\Debug\AutoParts.exe
+D:\code\GardensRu\bin\Debug\AutoParts.pdb
+D:\code\GardensRu\obj\Debug\AutoParts.g.resources
+D:\code\GardensRu\obj\Debug\AutoParts.exe
+D:\code\GardensRu\obj\Debug\AutoParts.pdb
+D:\code\GardensRu\obj\Debug\AutoParts.exe.config
+D:\code\GardensRu — копия\bin\Debug\AutoParts.exe.config
+D:\code\GardensRu — копия\bin\Debug\AutoParts.exe
+D:\code\GardensRu — копия\bin\Debug\AutoParts.pdb
+D:\code\GardensRu — копия\obj\Debug\GardensRu.csproj.AssemblyReference.cache
+D:\code\GardensRu — копия\obj\Debug\AutoParts.exe.config
+D:\code\GardensRu — копия\obj\Debug\AboutWindow.baml
+D:\code\GardensRu — копия\obj\Debug\AddUserWindow.baml
+D:\code\GardensRu — копия\obj\Debug\ChangePasswordWindow.baml
+D:\code\GardensRu — копия\obj\Debug\MainWindow.baml
+D:\code\GardensRu — копия\obj\Debug\Panel.baml
+D:\code\GardensRu — копия\obj\Debug\ProductEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Inventory\InventoryView.baml
+D:\code\GardensRu — копия\obj\Debug\MinStockLevelWindow.baml
+D:\code\GardensRu — копия\obj\Debug\OrderEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\PurchaseOrderRequestWindow.baml
+D:\code\GardensRu — копия\obj\Debug\CustomerEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\TextPromptWindow.baml
+D:\code\GardensRu — копия\obj\Debug\ModelEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\StockMovementWindow.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Stock\StockOverviewView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Orders\OrdersManagementView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Compatibility\CompatibilityView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Reports\ReportsOverviewView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Users\UsersManagementView.baml
+D:\code\GardensRu — копия\obj\Debug\AboutWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\AddUserWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\AdminPanelWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\ChangePasswordWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\MainWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\OrdersWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\Panel.g.cs
+D:\code\GardensRu — копия\obj\Debug\PanelUser.g.cs
+D:\code\GardensRu — копия\obj\Debug\ProductEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Inventory\InventoryView.g.cs
+D:\code\GardensRu — копия\obj\Debug\MinStockLevelWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\OrderEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\PurchaseOrderRequestWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\CustomerEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\TextPromptWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\ModelEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\StockMovementWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Stock\StockOverviewView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Compatibility\CompatibilityView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Users\UsersManagementView.g.cs
+D:\code\GardensRu — копия\obj\Debug\App.g.cs
+D:\code\GardensRu — копия\obj\Debug\AutoParts_MarkupCompile.cache
+D:\code\GardensRu — копия\obj\Debug\AutoParts_MarkupCompile.lref
+D:\code\GardensRu — копия\obj\Debug\AdminPanelWindow.baml
+D:\code\GardensRu — копия\obj\Debug\OrdersWindow.baml
+D:\code\GardensRu — копия\obj\Debug\PanelUser.baml
+D:\code\GardensRu — копия\obj\Debug\AutoParts.g.resources
+D:\code\GardensRu — копия\obj\Debug\GardensRu.Properties.Resources.resources
+D:\code\GardensRu — копия\obj\Debug\GardensRu.csproj.GenerateResource.cache
+D:\code\GardensRu — копия\obj\Debug\GardensRu.csproj.CoreCompileInputs.cache
+D:\code\GardensRu — копия\obj\Debug\AutoParts.exe
+D:\code\GardensRu — копия\obj\Debug\AutoParts.pdb

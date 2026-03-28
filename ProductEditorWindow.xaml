@@ -1,0 +1,156 @@
+<Window x:Class="GardensRu.ProductEditorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Новый товар"
+        Height="620"
+        Width="540"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="#F5FAFD">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="PrimaryBrush" Color="#5BA8C2"/>
+        <SolidColorBrush x:Key="TextBrush" Color="#1B4C63"/>
+
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Foreground" Value="{StaticResource TextBrush}"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Margin" Value="0,6,0,12"/>
+            <Setter Property="Padding" Value="8 6"/>
+            <Setter Property="BorderBrush" Value="{StaticResource PrimaryBrush}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style TargetType="ComboBox">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Margin" Value="0,6,0,12"/>
+            <Setter Property="Padding" Value="6"/>
+            <Setter Property="BorderBrush" Value="{StaticResource PrimaryBrush}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Padding" Value="12 8"/>
+            <Setter Property="Margin" Value="0,0,10,0"/>
+            <Setter Property="Background" Value="{StaticResource PrimaryBrush}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#4A97B1"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="0,0,0,12">
+            <TextBlock x:Name="HeaderTextBlock"
+                       Text="Добавление товара"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       Margin="0,0,0,4"/>
+            <TextBlock Text="Заполните информацию о товаре и сохраните изменения."
+                       Foreground="{StaticResource TextBrush}"
+                       Opacity="0.75"/>
+        </StackPanel>
+
+        <Border Grid.Row="1"
+                Background="White"
+                CornerRadius="0"
+                Padding="20"
+                BorderBrush="#E0EEF4"
+                BorderThickness="1">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="160"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="Артикул:" Margin="0,6,16,0"/>
+                <TextBox Grid.Row="0" Grid.Column="1" x:Name="ArticleTextBox"/>
+
+                <TextBlock Grid.Row="1" Grid.Column="0" Text="Наименование:" Margin="0,6,16,0"/>
+                <TextBox Grid.Row="1" Grid.Column="1" x:Name="NameTextBox"/>
+
+                <TextBlock Grid.Row="2" Grid.Column="0" Text="Категория:" Margin="0,6,16,0"/>
+                <ComboBox Grid.Row="2" Grid.Column="1"
+                          x:Name="CategoryComboBox"
+                          DisplayMemberPath="Name"
+                          SelectedValuePath="Id"/>
+
+                <TextBlock Grid.Row="3" Grid.Column="0" Text="Бренд:" Margin="0,6,16,0"/>
+                <ComboBox Grid.Row="3" Grid.Column="1"
+                          x:Name="BrandComboBox"
+                          DisplayMemberPath="Name"
+                          SelectedValuePath="Id"/>
+
+                <TextBlock Grid.Row="4" Grid.Column="0" Text="Цена, ₽:" Margin="0,6,16,0"/>
+                <TextBox Grid.Row="4" Grid.Column="1" x:Name="PriceTextBox"
+                         PreviewTextInput="NumericTextBox_PreviewTextInput"
+                         LostFocus="PriceTextBox_LostFocus"/>
+
+                <TextBlock Grid.Row="5" Grid.Column="0" Text="Остаток, шт.:" Margin="0,6,16,0"/>
+                <TextBox Grid.Row="5" Grid.Column="1" x:Name="StockTextBox"
+                         PreviewTextInput="IntegerTextBox_PreviewTextInput"/>
+
+                <TextBlock Grid.Row="6" Grid.Column="0" Text="Мин. остаток, шт.:" Margin="0,6,16,0"/>
+                <TextBox Grid.Row="6" Grid.Column="1" x:Name="MinStockTextBox"
+                         PreviewTextInput="IntegerTextBox_PreviewTextInput"/>
+
+                <TextBlock Grid.Row="7" Grid.Column="0" Text="Описание:" Margin="0,6,16,0"/>
+                <TextBox Grid.Row="7" Grid.Column="1"
+                         x:Name="DescriptionTextBox"
+                         AcceptsReturn="True"
+                         Height="100"
+                         TextWrapping="Wrap"
+                         VerticalScrollBarVisibility="Auto"/>
+
+                <TextBlock Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2"
+                           x:Name="ValidationMessageTextBlock"
+                           Foreground="Tomato"
+                           Margin="0,4,0,0"
+                           Visibility="Collapsed"
+                           TextWrapping="Wrap"/>
+            </Grid>
+        </Border>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,16,0,0">
+            <Button Content="Сохранить" Width="120" Click="SaveButton_Click"/>
+            <Button Content="Отмена" Width="120" Click="CancelButton_Click" Background="#A9B7BF"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
+

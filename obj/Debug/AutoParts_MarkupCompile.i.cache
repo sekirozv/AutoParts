@@ -1,0 +1,20 @@
+﻿AutoParts
+
+
+winexe
+C#
+.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\
+GardensRu
+none
+false
+DEBUG;TRACE
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\App.xaml
+16740367081
+
+24-169420024
+14220055469
+AddUserWindow.xaml;ChangePasswordWindow.xaml;MainWindow.xaml;Panel.xaml;ProductEditorWindow.xaml;Views\Inventory\InventoryView.xaml;MinStockLevelWindow.xaml;OrderEditorWindow.xaml;PurchaseOrderRequestWindow.xaml;CustomerEditorWindow.xaml;StockMovementWindow.xaml;Views\Stock\StockOverviewView.xaml;Views\Orders\OrdersManagementView.xaml;Views\Purchases\PurchaseManagementView.xaml;Views\Reports\ReportsOverviewView.xaml;Views\Users\UsersManagementView.xaml;
+
+False
+

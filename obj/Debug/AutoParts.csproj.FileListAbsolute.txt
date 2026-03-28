@@ -1,0 +1,335 @@
+D:\code\GardensRu — копия\bin\Debug\AutoParts.exe.config
+D:\code\GardensRu — копия\bin\Debug\AutoParts.exe
+D:\code\GardensRu — копия\bin\Debug\AutoParts.pdb
+D:\code\GardensRu — копия\obj\Debug\AutoParts.csproj.AssemblyReference.cache
+D:\code\GardensRu — копия\obj\Debug\AutoParts.exe.config
+D:\code\GardensRu — копия\obj\Debug\AddUserWindow.baml
+D:\code\GardensRu — копия\obj\Debug\ChangePasswordWindow.baml
+D:\code\GardensRu — копия\obj\Debug\MainWindow.baml
+D:\code\GardensRu — копия\obj\Debug\Panel.baml
+D:\code\GardensRu — копия\obj\Debug\ProductEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Inventory\InventoryView.baml
+D:\code\GardensRu — копия\obj\Debug\MinStockLevelWindow.baml
+D:\code\GardensRu — копия\obj\Debug\OrderEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\PurchaseOrderRequestWindow.baml
+D:\code\GardensRu — копия\obj\Debug\CustomerEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\TextPromptWindow.baml
+D:\code\GardensRu — копия\obj\Debug\ModelEditorWindow.baml
+D:\code\GardensRu — копия\obj\Debug\StockMovementWindow.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Stock\StockOverviewView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Orders\OrdersManagementView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Compatibility\CompatibilityView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Reports\ReportsOverviewView.baml
+D:\code\GardensRu — копия\obj\Debug\Views\Users\UsersManagementView.baml
+D:\code\GardensRu — копия\obj\Debug\AddUserWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\ChangePasswordWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\MainWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\OrdersWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\Panel.g.cs
+D:\code\GardensRu — копия\obj\Debug\PanelUser.g.cs
+D:\code\GardensRu — копия\obj\Debug\ProductEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Inventory\InventoryView.g.cs
+D:\code\GardensRu — копия\obj\Debug\MinStockLevelWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\OrderEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\PurchaseOrderRequestWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\CustomerEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\TextPromptWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\ModelEditorWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\StockMovementWindow.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Stock\StockOverviewView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Compatibility\CompatibilityView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+D:\code\GardensRu — копия\obj\Debug\Views\Users\UsersManagementView.g.cs
+D:\code\GardensRu — копия\obj\Debug\App.g.cs
+D:\code\GardensRu — копия\obj\Debug\AutoParts_MarkupCompile.cache
+D:\code\GardensRu — копия\obj\Debug\AutoParts_MarkupCompile.lref
+D:\code\GardensRu — копия\obj\Debug\OrdersWindow.baml
+D:\code\GardensRu — копия\obj\Debug\PanelUser.baml
+D:\code\GardensRu — копия\obj\Debug\AutoParts.g.resources
+D:\code\GardensRu — копия\obj\Debug\GardensRu.Properties.Resources.resources
+D:\code\GardensRu — копия\obj\Debug\AutoParts.csproj.GenerateResource.cache
+D:\code\GardensRu — копия\obj\Debug\AutoParts.csproj.CoreCompileInputs.cache
+D:\code\GardensRu — копия\obj\Debug\AutoParts.exe
+D:\code\GardensRu — копия\obj\Debug\AutoParts.pdb
+Z:\Курсовой\AutoParts\bin\Debug\AutoParts.exe.config
+Z:\Курсовой\AutoParts\bin\Debug\AutoParts.exe
+Z:\Курсовой\AutoParts\bin\Debug\AutoParts.pdb
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts.csproj.AssemblyReference.cache
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts.exe.config
+Z:\Курсовой\AutoParts\obj\Debug\AddUserWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\ChangePasswordWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\MainWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\Panel.baml
+Z:\Курсовой\AutoParts\obj\Debug\ProductEditorWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\Views\Inventory\InventoryView.baml
+Z:\Курсовой\AutoParts\obj\Debug\MinStockLevelWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\OrderEditorWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\PurchaseOrderRequestWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\CustomerEditorWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\TextPromptWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\ModelEditorWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\StockMovementWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\Views\Stock\StockOverviewView.baml
+Z:\Курсовой\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.baml
+Z:\Курсовой\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+Z:\Курсовой\AutoParts\obj\Debug\Views\Compatibility\CompatibilityView.baml
+Z:\Курсовой\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.baml
+Z:\Курсовой\AutoParts\obj\Debug\Views\Users\UsersManagementView.baml
+Z:\Курсовой\AutoParts\obj\Debug\AddUserWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\ChangePasswordWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\MainWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\OrdersWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Panel.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\PanelUser.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\ProductEditorWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Views\Inventory\InventoryView.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\MinStockLevelWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\OrderEditorWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\PurchaseOrderRequestWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\CustomerEditorWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\TextPromptWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\ModelEditorWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\StockMovementWindow.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Views\Stock\StockOverviewView.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Views\Compatibility\CompatibilityView.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\Views\Users\UsersManagementView.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\App.g.cs
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts_MarkupCompile.cache
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts_MarkupCompile.lref
+Z:\Курсовой\AutoParts\obj\Debug\OrdersWindow.baml
+Z:\Курсовой\AutoParts\obj\Debug\PanelUser.baml
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts.g.resources
+Z:\Курсовой\AutoParts\obj\Debug\GardensRu.Properties.Resources.resources
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts.csproj.GenerateResource.cache
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts.csproj.CoreCompileInputs.cache
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts.exe
+Z:\Курсовой\AutoParts\obj\Debug\AutoParts.pdb
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\bin\Debug\AutoParts.exe.config
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\bin\Debug\AutoParts.exe
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\bin\Debug\AutoParts.pdb
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts.csproj.AssemblyReference.cache
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts.exe.config
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AddUserWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\ChangePasswordWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\MainWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Panel.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\ProductEditorWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Inventory\InventoryView.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\MinStockLevelWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\OrderEditorWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\PurchaseOrderRequestWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\CustomerEditorWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\StockMovementWindow.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Stock\StockOverviewView.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Users\UsersManagementView.baml
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AddUserWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\ChangePasswordWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\MainWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Panel.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\ProductEditorWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Inventory\InventoryView.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\MinStockLevelWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\OrderEditorWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\PurchaseOrderRequestWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\CustomerEditorWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\StockMovementWindow.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Stock\StockOverviewView.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\Views\Users\UsersManagementView.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\App.g.cs
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts_MarkupCompile.cache
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts.g.resources
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\GardensRu.Properties.Resources.resources
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts.csproj.GenerateResource.cache
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts.csproj.CoreCompileInputs.cache
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts.exe
+C:\Users\foldi\Desktop\Курсовой проект Арзамасцев\AutoParts\obj\Debug\AutoParts.pdb
+C:\Users\Арзамасцев\Desktop\AutoParts\bin\Debug\AutoParts.exe.config
+C:\Users\Арзамасцев\Desktop\AutoParts\bin\Debug\AutoParts.exe
+C:\Users\Арзамасцев\Desktop\AutoParts\bin\Debug\AutoParts.pdb
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts.csproj.AssemblyReference.cache
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts.exe.config
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AddUserWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\ChangePasswordWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\MainWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Panel.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\ProductEditorWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Inventory\InventoryView.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\MinStockLevelWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\OrderEditorWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\PurchaseOrderRequestWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\CustomerEditorWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\StockMovementWindow.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Stock\StockOverviewView.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Users\UsersManagementView.baml
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AddUserWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\ChangePasswordWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\MainWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Panel.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\ProductEditorWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Inventory\InventoryView.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\MinStockLevelWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\OrderEditorWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\PurchaseOrderRequestWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\CustomerEditorWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\StockMovementWindow.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Stock\StockOverviewView.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\Views\Users\UsersManagementView.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\App.g.cs
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts_MarkupCompile.cache
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts.g.resources
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\GardensRu.Properties.Resources.resources
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts.csproj.GenerateResource.cache
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts.csproj.CoreCompileInputs.cache
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts.exe
+C:\Users\Арзамасцев\Desktop\AutoParts\obj\Debug\AutoParts.pdb
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\bin\Debug\AutoParts.exe.config
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\bin\Debug\AutoParts.exe
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\bin\Debug\AutoParts.pdb
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts.csproj.AssemblyReference.cache
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts.exe.config
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AddUserWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\ChangePasswordWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\MainWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Panel.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\ProductEditorWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Inventory\InventoryView.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\MinStockLevelWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\OrderEditorWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\PurchaseOrderRequestWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\CustomerEditorWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\StockMovementWindow.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Stock\StockOverviewView.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Users\UsersManagementView.baml
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AddUserWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\ChangePasswordWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\MainWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Panel.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\ProductEditorWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Inventory\InventoryView.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\MinStockLevelWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\OrderEditorWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\PurchaseOrderRequestWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\CustomerEditorWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\StockMovementWindow.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Stock\StockOverviewView.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\Views\Users\UsersManagementView.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\App.g.cs
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts_MarkupCompile.cache
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts.g.resources
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\GardensRu.Properties.Resources.resources
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts.csproj.GenerateResource.cache
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts.csproj.CoreCompileInputs.cache
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts.exe
+C:\Users\Арзамасцев\Desktop\Курсовой проект Арzамасцеv\AutoParts\obj\Debug\AutoParts.pdb
+C:\Users\foldi\Desktop\AutoParts\bin\Debug\AutoParts.exe.config
+C:\Users\foldi\Desktop\AutoParts\bin\Debug\AutoParts.exe
+C:\Users\foldi\Desktop\AutoParts\bin\Debug\AutoParts.pdb
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AutoParts.csproj.AssemblyReference.cache
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AddUserWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\ChangePasswordWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\MainWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Panel.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\ProductEditorWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Inventory\InventoryView.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\MinStockLevelWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\OrderEditorWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\PurchaseOrderRequestWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\CustomerEditorWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\StockMovementWindow.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Stock\StockOverviewView.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Users\UsersManagementView.baml
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AddUserWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\ChangePasswordWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\MainWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Panel.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\ProductEditorWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Inventory\InventoryView.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\MinStockLevelWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\OrderEditorWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\PurchaseOrderRequestWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\CustomerEditorWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\StockMovementWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Stock\StockOverviewView.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\Views\Users\UsersManagementView.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\App.g.cs
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AutoParts_MarkupCompile.cache
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AutoParts.g.resources
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\GardensRu.Properties.Resources.resources
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AutoParts.csproj.GenerateResource.cache
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AutoParts.csproj.CoreCompileInputs.cache
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AutoParts.exe
+C:\Users\foldi\Desktop\AutoParts\obj\Debug\AutoParts.pdb
+C:\Users\foldi\Desktop\AutoParts — копия\bin\Debug\AutoParts.exe.config
+C:\Users\foldi\Desktop\AutoParts — копия\bin\Debug\AutoParts.exe
+C:\Users\foldi\Desktop\AutoParts — копия\bin\Debug\AutoParts.pdb
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AutoParts.csproj.AssemblyReference.cache
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AddUserWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\ChangePasswordWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\MainWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Panel.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\ProductEditorWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Inventory\InventoryView.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\MinStockLevelWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\OrderEditorWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\PurchaseOrderRequestWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\CustomerEditorWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\StockMovementWindow.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Stock\StockOverviewView.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Orders\OrdersManagementView.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Purchases\PurchaseManagementView.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Reports\ReportsOverviewView.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Users\UsersManagementView.baml
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AddUserWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\ChangePasswordWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\MainWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Panel.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\ProductEditorWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Inventory\InventoryView.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\MinStockLevelWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\OrderEditorWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\PurchaseOrderRequestWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\CustomerEditorWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\StockMovementWindow.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Stock\StockOverviewView.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Orders\OrdersManagementView.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Purchases\PurchaseManagementView.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Reports\ReportsOverviewView.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\Views\Users\UsersManagementView.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\App.g.cs
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AutoParts_MarkupCompile.cache
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AutoParts.g.resources
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\GardensRu.Properties.Resources.resources
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AutoParts.csproj.GenerateResource.cache
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AutoParts.csproj.CoreCompileInputs.cache
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AutoParts.exe
+C:\Users\foldi\Desktop\AutoParts — копия\obj\Debug\AutoParts.pdb
